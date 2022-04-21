@@ -1,3 +1,7 @@
-h1{
-    font-family:font-family: 'Fira Sans', sans-serif;
+.container {
+    display:flex;
+}
+
+.row .div{
+    margin-top: 300px;
 }
